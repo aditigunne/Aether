@@ -4,15 +4,20 @@ Project Overview
 Aether is a conceptualized hybrid car designed to integrate quantum sensors, nano sensors, and mechatronics for smarter, more efficient vehicles. This project explores advanced technologies to enhance safety, reduce emissions, and optimize performance, addressing global challenges in transportation. Conceptualized in just 10 hours with of access to device, Aether represents my vision for the future of automotive innovation as a 17-year-old aspiring engineer from India.
 Motivation:
 Road accidents are the leading cause of death worldwide, claiming 1.35 million lives annually and costing countries up to 3% of GDP. The primary culprits are distracted driving and speeding, particularly affecting those aged 5-29. Aether aims to mitigate these risks through AI-driven decision-making and precision sensing, creating safer, more sustainable roads.  The two major reasons for such tragedies happen is because of distracted driveing and speeding. 
-Key Features
+Key Features:-
+
+Quantum Sensor Integration
+Instead of relying solely on traditional LiDAR and radar systems, Aether incorporates next-generation quantum sensors. These sensors detect changes at the subatomic level, enabling precise environmental mapping even in extreme weather or low-light conditions. Unlike conventional systems that can be blinded by fog or heavy rain, Aether maintains centimeter-level accuracy — making it safer for autonomous driving in unpredictable climates.
+
 Dual Driving Mode: Seamless manual and automated operation with electronic controls replacing mechanical linkages for better human-AI coordination. This feature allows the driver to feel comfortable and also responsible irrespective of the driving mode that was selected.
 Redundancy Systems: Fully redundant (2N) backup systems for steering and safety, ensuring no single failure compromises the vehicle, unlike N+1 designs.
-Transition Logic Unit: Coordinates smooth mode switches between engine and motor, preventing torque spikes and ensuring efficient, safe transitions based on driver inputs.
-Quantum and Nano Sensors: Extend classic sensors to detect changes at molecular/subatomic levels, providing unprecedented precision in environmental monitoring and navigation (e.g., quantum gravimeters for road conditions).
+
+Transition Logic Unit: Coordinates smooth mode switches between engine and motor, preventing torque spikes and ensuring efficient, safe transitions based on driver inputs. This the most essential 
+
 Automatic Feedback System: Located at the tail, offering real-time corrections via driver, vehicle, and AI feedback loops.
 Additional Innovations: Adaptive control, modular design, regenerative technology, driver-centric interface, and dual-mode hybrid drive system.
 Technical Vision
-Aether's sensors enable atomic-level detection, surpassing traditional GPS/IMU limitations. For example, quantum sensors process multiple scenarios simultaneously, improving response times over binary computing. 
+Aether's sensors enable atomic-level detection, surpassing traditional GPS/IMU limitations. For example, quantum sensors process multiple scenarios simultaneously, improving response times over binary computing. This means that a system aided with the support of quantum sensors is caapable to run multiple senarios parallely. This is useful in terms of safety, efficency, analysis and assessment of the siituation. 
 Global Impact
 Aether aims to contribute to six SDGs:
 SDG 7 (Affordable and Clean Energy): Energy-efficient hybrid design reduces fossil fuel use.
